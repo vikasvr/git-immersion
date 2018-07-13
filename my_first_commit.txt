@@ -1,1 +1,1 @@
-vikasvr
+Let's write down what are the key things we can get from advanced ruby
